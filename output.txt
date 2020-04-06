@@ -1,0 +1,11 @@
+﻿OUTPUT OF PROGRAM WITH  SAMPLE DATA:
+ 1. Enter the string and enter the size of m, for example let us enter 
+    abcdefghijkl   5
+ 2. Run the program.
+ 3. The sample output would be as,
+    Input is abcdefghijkl
+    Output is fghijklabcde
+    Number of swaps is 11
+TOTAL NUMBER OF BASIC (KEY)OPERATION i.e COMPUTATION OF TIME COMPLEXITY:
+  T(n)=O(n)
+
